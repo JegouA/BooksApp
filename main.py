@@ -11,8 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    user = 'Aaude'
-    password = 'admin'
+    user = ''
+    password = ''
     connect, userID, error = ut.booksApp_connection(user, password)
     path = r'C:\Users\pimou\OneDrive\livres'
     ut.parsing_directory(path, connect, userID)
