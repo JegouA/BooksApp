@@ -1,3 +1,9 @@
+# Copyright 2024 by Aude Jegou.
+# All rights reserved.
+# This file is part of the BooksApp project,
+# and is released under the "MIT License Agreement". Please see the LICENSE
+# file that should have been included as part of this package.
+
 # This is a sample Python script.
 import utils as ut
 # Press Maj+F10 to execute it or replace it with your code.
